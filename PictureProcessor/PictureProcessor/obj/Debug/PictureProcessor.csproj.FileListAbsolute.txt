@@ -1,1 +1,10 @@
 C:\Sriram\Personal\Repo\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe.config
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe.config
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.pdb
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.csprojResolveAssemblyReference.cache
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.pdb
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.ProjectInstaller.resources
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.Service1.resources
+D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.InstallLog
+   assemblypath = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.InstallLog
+   assemblypath = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\bin\Debug\PictureProcessor.exe

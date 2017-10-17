@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.InstallLog
+   assemblypath = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe assembly.
+Committing assembly 'D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.InstallLog
+   assemblypath = D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\THEWEBSITE\ImageInventory\PictureProcessor\PictureProcessor\obj\Debug\PictureProcessor.exe assembly.
+Remove InstallState file because there are no installers.

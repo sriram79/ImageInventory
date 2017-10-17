@@ -6,7 +6,8 @@
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
-
+        //private System.Diagnostics.EventLog eventLog1;
+        
         /// <summary>
         /// Clean up any resources being used.
         /// </summary>
@@ -28,10 +29,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            this.eventLog1 = new System.Diagnostics.EventLog();
+            ((System.ComponentModel.ISupportInitialize)(this.eventLog1)).BeginInit();
+            // 
+            // Service1
+            // 
             this.ServiceName = "Service1";
+            ((System.ComponentModel.ISupportInitialize)(this.eventLog1)).EndInit();
+
         }
 
         #endregion
+
+        private System.Diagnostics.EventLog eventLog1;
     }
 }
